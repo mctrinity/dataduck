@@ -1,0 +1,17 @@
+{
+  "record_count": 1000,
+  "locale": "en_GB",
+  "seed": 42,
+  "reference_date": "2026-11-27",
+  "output_directory": "datasets/raw",
+  "defect_rates": {
+    "duplicates": 0.05,
+    "missing_values": 0.10,
+    "invalid_email": 0.05,
+    "invalid_postcode": 0.03,
+    "capitalization": 0.08,
+    "whitespace": 0.05,
+    "invalid_phone": 0.02,
+    "inappropriate_words": 0.01
+  }
+}
