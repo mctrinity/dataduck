@@ -1,0 +1,1 @@
+"""DataDuck synthetic data generator."""
